@@ -1,52 +1,26 @@
 # Hi there 👋 I'm InkCoderX
 
-<table>
-  <tr>
-    <td>
-      <h3>💻 Tech Stack</h3>
-      <p>
-        <a href="https://reactjs.org/">
-          <img src="https://readme-components.vercel.app/api?component=logo&logo=react&text=false&animation=spin" />
-        </a>
-        <a href="https://github.com/harish-sethuraman/readme-components">
-          <img src="https://readme-components.vercel.app/api?component=linearprogress&skill=css&value=70" />
-        </a>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-          <img src="https://readme-components.vercel.app/api?component=logo&logo=javascript" />
-        </a>
-      </p>
+[![InkCoderX's GitHub stats](https://github-readme-stats.vercel.app/api?username=InkCoderX&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=InkCoderX&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-      <h3>🌱 Currently Learning</h3>
-      <ul>
-        <li>🌐 Web Development</li>
-        <li>☁️ Cloud Computing</li>
-        <li>📈 Data Science & AI</li>
-      </ul>
+### 💻 Tech Stack
+[![React](https://readme-components.vercel.app/api?component=logo&logo=react&text=false&animation=spin)](https://reactjs.org/)
+[![CSS Progress](https://readme-components.vercel.app/api?component=linearprogress&skill=css&value=70)](https://github.com/harish-sethuraman/readme-components)
+[![JavaScript](https://readme-components.vercel.app/api?component=logo&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-      <h3>📂 Featured Projects</h3>
-      <ul>
-        <li><a href="https://github.com/InkCoderX/ProjectOne">Project One</a> - A powerful web app built with React and Node.js.</li>
-        <li><a href="https://github.com/InkCoderX/ProjectTwo">Project Two</a> - Real-time chat app using WebSocket and Express.</li>
-      </ul>
+### 🌱 Currently Learning
+- 🌐 Web Development
+- ☁️ Cloud Computing
+- 📈 Data Science & AI
 
-      <h3>📫 How to Reach Me</h3>
-      <p>
-        <a href="https://www.linkedin.com/in/InkCoderX">
-          <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin" />
-        </a>
-        <a href="https://twitter.com/InkCoderX">
-          <img src="https://img.shields.io/badge/-Twitter-blue?logo=twitter" />
-        </a>
-        📧 Email: InkCoderX@example.com
-      </p>
+### 📂 Featured Projects
+- [Project One](https://github.com/InkCoderX/ProjectOne) - A powerful web app built with React and Node.js.
+- [Project Two](https://github.com/InkCoderX/ProjectTwo) - Real-time chat app using WebSocket and Express.
 
-      <h3>🔥 Fun Fact</h3>
-      <p>I love coding challenges and am always looking to learn something new every day!</p>
-    </td>
-    <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=InkCoderX&show_icons=true&theme=radical" />
-      </a>
-    </td>
-  </tr>
-</table>
+### 📫 How to Reach Me
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/InkCoderX)
+- [![Twitter](https://img.shields.io/badge/-Twitter-blue?logo=twitter)](https://twitter.com/InkCoderX)
+- 📧 Email: InkCoderX@example.com
+
+### 🔥 Fun Fact
+I love coding challenges and am always looking to learn something new every day!
