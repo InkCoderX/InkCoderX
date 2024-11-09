@@ -1,4 +1,5 @@
 ## Hi there 👋
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=InCoderX)](https://github.com/anuraghazra/github-readme-stats)
 [![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=css&value=50)](https://github.com/harish-sethuraman/readme-components)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react&text=false&animation=spin)
 <!--
