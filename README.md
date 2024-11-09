@@ -1,18 +1,17 @@
-## Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=InCoderX)](https://github.com/anuraghazra/github-readme-stats)
-[![css progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=css&value=50)](https://github.com/harish-sethuraman/readme-components)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react&text=false&animation=spin)
-<!--
-**InkCoderX/InkCoderX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there 👋 I'm InkCoderX
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Tech Stack
+
+
+🌱 Currently Learning
+🌐 Web Development
+☁️ Cloud Computing
+📈 Data Science & AI
+📫 How to Reach Me
+LinkedIn
+Twitter
+📧 Email: InkCoderX@example.com
+🔥 Fun Fact
+I love coding challenges and am always looking to learn something new every day!
+
